@@ -14,5 +14,8 @@
   "scripts": {
     "station2:prettier": "prettier -c ./src/station2.html",
     "serve": "lite-server"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
   }
 }
